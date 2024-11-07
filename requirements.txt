@@ -1,0 +1,6 @@
+# This file lists the required libraries / frameworks to operate the software
+
+scikit-learn
+fastapi
+numpy
+uvicorn

@@ -11,5 +11,4 @@ model = RandomForestClassifier()
 model.fit(X, y)
 
 # Save model in environment
-if not os.path.exists("./model"): os.mkdir("./model")
-joblib.dump(model,'model/model.joblib')
+joblib.dump(model,'app/model.joblib')

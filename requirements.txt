@@ -1,6 +1,5 @@
-# This file lists the required libraries / frameworks to operate the software
-
+joblib
 scikit-learn
-fastapi
+flask
 numpy
-uvicorn
+logging
